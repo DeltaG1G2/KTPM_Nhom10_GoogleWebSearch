@@ -59,30 +59,6 @@ shopee_test/
 | Lê văn B | 300000000 | - Pagination test cases<br>- Image search implementation<br>- Test stability improvements | 24% |
 | Lê văn C | 300000000 | - Multilingual test cases<br>- Special characters testing<br>- Code optimization | 24% |
 
-## Key Features
-
-- Robust wait strategies for dynamic elements
-- Cross-browser compatibility
-- Comprehensive test coverage
-- Clear test reporting
-- Maintainable test structure
-
-## Best Practices Implemented
-
-1. Explicit waits for better reliability
-2. Proper element locator strategies
-3. Error handling and recovery
-4. Clean code structure
-5. Comprehensive documentation
-
-## Future Improvements
-
-1. Add more test scenarios
-2. Implement parallel test execution
-3. Add detailed test reporting
-4. Enhance error handling
-5. Add visual regression testing
-
 ## Notes
 
 - Tests are designed to handle Google's dynamic UI
