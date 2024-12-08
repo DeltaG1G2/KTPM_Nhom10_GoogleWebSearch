@@ -55,9 +55,9 @@ shopee_test/
 | Name | Student ID | Contribution | Percentage |
 |------|------------|--------------|------------|
 | Lê Trương Gia Bảo | 3120221006 | - Project setup & architecture<br>- Selenium IDE test suite development<br>- Documentation & code review | 30% |
-| Lê văn A | 300000000 | - Basic search test cases<br>- Search suggestions implementation<br>- Bug fixes & improvements | 24% |
-| Lê văn B | 300000000 | - Pagination test cases<br>- Image search implementation<br>- Test stability improvements | 24% |
-| Lê văn C | 300000000 | - Multilingual test cases<br>- Special characters testing<br>- Code optimization | 24% |
+| Nguyễn Quỳnh Anh | 3120221329 | - Basic search test cases<br>- Search suggestions implementation<br>- Bug fixes & improvements | 24% |
+| Nguyễn Thị Ngọc Huyền | 3120221389 | - Pagination test cases<br>- Image search implementation<br>- Test stability improvements | 24% |
+| Trần Thị Xuân Mai | 3120221059 | - Multilingual test cases<br>- Special characters testing<br>- Code optimization | 24% |
 
 ## Notes
 
