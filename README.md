@@ -1,5 +1,3 @@
-# KTPM_Nhom10_GoogleWebSearch
-
 # Automated Testing for Google Search Using Selenium
 
 This project implements automated testing for Google Search functionality using Selenium WebDriver and Selenium IDE.
