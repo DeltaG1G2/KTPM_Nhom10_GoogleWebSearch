@@ -1,4 +1,4 @@
-# KTPM_Nhom10_GoogleWebSearch
+# KTPM_Nhom10
 
 # Automated Testing for Google Search Using Selenium
 
