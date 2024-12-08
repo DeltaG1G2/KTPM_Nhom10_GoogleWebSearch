@@ -5,7 +5,7 @@ This project implements automated testing for Google Search functionality using 
 ## Project Structure
 
 ```
-KTPM_google_test/
+selenium_google_test/
 ├── src/test/java/
 │   └── EnhancedGoogleTest.java    # Java-based test cases
 ├── Google_selenium.side           # Selenium IDE test suite
